@@ -1,0 +1,1 @@
+Quentify on Rails:  A new kind of app.
